@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0d4f049b1074260d",
+        "id": "ea2d79cfbcb1e739",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Домашняя.md",
+            "file": "Матрицы.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Домашняя.md",
+                "file": "Матрицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,14 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357,
+    "width": 232.5,
     "collapsed": true
   },
-  "active": "0d4f049b1074260d",
+  "active": "ea2d79cfbcb1e739",
   "lastOpenFiles": [
-    "Домашняя.md",
     "Матрицы.md",
-    "Матрицей.md",
-    "Вопросы к экзамену.md"
+    "Pasted image 20220514225949.png",
+    "Коммутативность.md",
+    "Вопросы к экзамену.md",
+    "Линейное пространство.md",
+    "ТЕСТ.md",
+    "Матрица.md",
+    "Домашняя.md",
+    "Матрицей.md"
   ]
 }
