@@ -2,5 +2,13 @@
   "legacyEditor": false,
   "livePreview": true,
   "fileSortOrder": "byModifiedTime",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
