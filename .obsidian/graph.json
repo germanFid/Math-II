@@ -4,19 +4,34 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Определение",
+      "color": {
+        "a": 1,
+        "rgb": 5431439
+      }
+    },
+    {
+      "query": "tag:#Конспект",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 1.88371592836167,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.500137141961522,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
+  "centerStrength": 0.705928451079503,
+  "repelStrength": 14.819168527879,
+  "linkStrength": 0.775322283609576,
+  "linkDistance": 309,
   "scale": 3.19116896581261,
-  "close": true
+  "close": false
 }
