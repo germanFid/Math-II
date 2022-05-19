@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9005cbb0278d2e37",
+        "id": "791548f668917a1d",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Конспект",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,12 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 144
+    "width": 303.5036334991455
   },
   "right": {
     "id": "6a8148e886381e8d",
@@ -83,17 +82,17 @@
     "width": 232.5,
     "collapsed": true
   },
-  "active": "9005cbb0278d2e37",
+  "active": "791548f668917a1d",
   "lastOpenFiles": [
+    "Основные типы матриц.md",
     "Матрицы.md",
+    "Вопросы к экзамену.md",
     "Определения.md",
+    "Коммутативность.md",
     "Линейное пространство.md",
     "Домашняя.md",
-    "Коммутативность.md",
-    "Вопросы к экзамену.md",
     "README.md",
     "Pasted image 20220514225949.png",
-    "ТЕСТ.md",
-    "Матрица.md"
+    "ТЕСТ.md"
   ]
 }

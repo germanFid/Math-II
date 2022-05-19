@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Определение",
@@ -22,16 +22,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.4,
   "nodeSizeMultiplier": 1.88371592836167,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.705928451079503,
   "repelStrength": 14.819168527879,
   "linkStrength": 0.775322283609576,
   "linkDistance": 309,
-  "scale": 3.19116896581261,
+  "scale": 1.3527679379424213,
   "close": false
 }
