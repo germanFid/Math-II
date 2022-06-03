@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "791548f668917a1d",
+        "id": "910b29c7aa4dd65b",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Конспект",
+                "query": "Коммута",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -44,12 +44,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "55fb478adfc9d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5036334991455
+    "width": 248.5
   },
   "right": {
     "id": "6a8148e886381e8d",
@@ -82,17 +90,17 @@
     "width": 232.5,
     "collapsed": true
   },
-  "active": "791548f668917a1d",
+  "active": "910b29c7aa4dd65b",
   "lastOpenFiles": [
-    "Основные типы матриц.md",
+    "Определения (Линейная алгебра).md",
     "Матрицы.md",
-    "Вопросы к экзамену.md",
-    "Определения.md",
     "Коммутативность.md",
+    "Вопросы к экзамену.md",
+    "Билеты/Билет 2 -Определение линейного пространства.md",
     "Линейное пространство.md",
     "Домашняя.md",
-    "README.md",
-    "Pasted image 20220514225949.png",
-    "ТЕСТ.md"
+    "Билеты/Билет 3 – Теорема о линейной зависимости системы из k векторов.md",
+    "Все теоремы.md",
+    "Билеты/Билет 1 – Группы, кольца, поля.md"
   ]
 }
