@@ -1,10 +1,10 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -20,18 +20,25 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#Билет",
+      "color": {
+        "a": 1,
+        "rgb": 6184150
+      }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0.4,
-  "nodeSizeMultiplier": 1.88371592836167,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.705928451079503,
-  "repelStrength": 14.819168527879,
-  "linkStrength": 0.775322283609576,
-  "linkDistance": 309,
-  "scale": 1.3527679379424213,
-  "close": false
+  "showArrow": true,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 1.62768895348837,
+  "lineSizeMultiplier": 1.48124091569767,
+  "collapse-forces": false,
+  "centerStrength": 0.518372252747253,
+  "repelStrength": 15.1236263736264,
+  "linkStrength": 0.6953125,
+  "linkDistance": 380,
+  "scale": 0.45419707093053613,
+  "close": true
 }
