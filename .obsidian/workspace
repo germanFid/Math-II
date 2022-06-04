@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "910b29c7aa4dd65b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Домашняя.md",
-            "mode": "source",
-            "source": false
+        "id": "d10f896bc452fe78",
+        "type": "split",
+        "children": [
+          {
+            "id": "910b29c7aa4dd65b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Билеты/Билет 14 - Определитель матрицы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b262368760702f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Все теоремы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -40,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Коммута",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Домашняя.md",
+                "file": "Билеты/Билет 14 - Определитель матрицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +116,15 @@
   },
   "active": "910b29c7aa4dd65b",
   "lastOpenFiles": [
-    "Домашняя.md",
-    "Определения (Линейная алгебра).md",
-    "Матрицы.md",
-    "Коммутативность.md",
-    "Вопросы к экзамену.md",
-    "Билеты/Билет 2 -Определение линейного пространства.md",
-    "Линейное пространство.md",
-    "Билеты/Билет 3 – Теорема о линейной зависимости системы из k векторов.md",
+    "Билеты/Билет 14 - Определитель матрицы.md",
     "Все теоремы.md",
-    "Билеты/Билет 1 – Группы, кольца, поля.md"
+    "Вопросы к экзамену.md",
+    "Билеты/Билет 13 - Ортогональные матрицы.md",
+    "Снимки определений/Снимок экрана 2022-06-04 в 20.57.59.png",
+    "Определения (Линейная алгебра).md",
+    "Определения (Мат. анализ) 1.md",
+    "Pasted image 20220514225949.png",
+    "Pasted image 20220514205838.png",
+    "Pasted image 20220514225313.png"
   ]
 }
